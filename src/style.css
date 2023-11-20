@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Title";   /*Can be any text*/
+    src: local("Outfit-Bold"),
+    url("font/Outfit-Bold.otf") format("truetype");
+}
+@font-face {
+    font-family: "SwitzerLight";   /*Can be any text*/
+    src: local("Switzer-Light"),
+    url("font/Switzer-Light.otf") format("truetype");
+}
+@font-face {
+    font-family: "SwitzerBold";   /*Can be any text*/
+    src: local("Switzer-Bold"),
+    url("font/Switzer-Bold.otf") format("truetype");
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}

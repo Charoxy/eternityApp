@@ -1,0 +1,6 @@
+.background{
+    background-color: #182025;
+    background-image: url("/src/img/backgroundRL.png");
+    background-size: cover;
+    height: 100vh;
+}
